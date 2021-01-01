@@ -2,7 +2,7 @@
 
 I am penguin2233, owner of penguin2233.gq. I work on osu-wiki for fun and I am a hobby C++ programmer. 
 
-- 🔭 I’m currently working on osu-wiki
+- 🔭 I’m currently working on osu-wiki (not really, started mapping again :sunglasses:)
 - 🌱 I’m currently learning C++
 - 🤔 I’m looking for help with F#
 - 💬 Ask me about Melbourne trains
